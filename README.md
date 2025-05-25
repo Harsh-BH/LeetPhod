@@ -18,12 +18,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/Harsh-BH/LeetPhod/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Harsh-BH/LeetPhod/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Harsh-BH/LeetPhod/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Harsh-BH/LeetPhod/tree/master/0064-minimum-path-sum) |
 ## Array
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Harsh-BH/LeetPhod/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Harsh-BH/LeetPhod/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Harsh-BH/LeetPhod/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Harsh-BH/LeetPhod/tree/master/0064-minimum-path-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -33,4 +35,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Harsh-BH/LeetPhod/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Harsh-BH/LeetPhod/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
