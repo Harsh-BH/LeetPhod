@@ -15,4 +15,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harsh-BH/LeetPhod/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/Harsh-BH/LeetPhod/tree/master/0045-jump-game-ii) |
+## Array
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/Harsh-BH/LeetPhod/tree/master/0045-jump-game-ii) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/Harsh-BH/LeetPhod/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
