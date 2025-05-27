@@ -41,4 +41,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/Harsh-BH/LeetPhod/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Harsh-BH/LeetPhod/tree/master/0064-minimum-path-sum) |
 | [0221-maximal-square](https://github.com/Harsh-BH/LeetPhod/tree/master/0221-maximal-square) |
+## Math
+|  |
+| ------- |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/Harsh-BH/LeetPhod/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 <!---LeetCode Topics End-->
