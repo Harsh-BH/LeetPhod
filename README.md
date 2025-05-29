@@ -13,11 +13,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harsh-BH/LeetPhod/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Harsh-BH/LeetPhod/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/Harsh-BH/LeetPhod/tree/master/0072-edit-distance) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harsh-BH/LeetPhod/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Harsh-BH/LeetPhod/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Harsh-BH/LeetPhod/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Harsh-BH/LeetPhod/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Harsh-BH/LeetPhod/tree/master/0063-unique-paths-ii) |
@@ -73,4 +75,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Harsh-BH/LeetPhod/tree/master/0287-find-the-duplicate-number) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Harsh-BH/LeetPhod/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
