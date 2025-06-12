@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harsh-BH/LeetPhod/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harsh-BH/LeetPhod/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Harsh-BH/LeetPhod/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Harsh-BH/LeetPhod/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Harsh-BH/LeetPhod/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harsh-BH/LeetPhod/tree/master/0142-linked-list-cycle-ii) |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harsh-BH/LeetPhod/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Harsh-BH/LeetPhod/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Harsh-BH/LeetPhod/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Harsh-BH/LeetPhod/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Harsh-BH/LeetPhod/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Harsh-BH/LeetPhod/tree/master/0063-unique-paths-ii) |
@@ -37,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Harsh-BH/LeetPhod/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Harsh-BH/LeetPhod/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Harsh-BH/LeetPhod/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Harsh-BH/LeetPhod/tree/master/0063-unique-paths-ii) |
@@ -125,4 +128,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harsh-BH/LeetPhod/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Harsh-BH/LeetPhod/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Harsh-BH/LeetPhod/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Harsh-BH/LeetPhod/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
