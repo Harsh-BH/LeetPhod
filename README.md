@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/Harsh-BH/LeetPhod/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Harsh-BH/LeetPhod/tree/master/0300-longest-increasing-subsequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Harsh-BH/LeetPhod/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Harsh-BH/LeetPhod/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Harsh-BH/LeetPhod/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Greedy
 |  |
