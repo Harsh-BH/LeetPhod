@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harsh-BH/LeetPhod/tree/master/0005-longest-palindromic-substring) |
+| [0061-rotate-list](https://github.com/Harsh-BH/LeetPhod/tree/master/0061-rotate-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harsh-BH/LeetPhod/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Harsh-BH/LeetPhod/tree/master/0287-find-the-duplicate-number) |
 ## String
@@ -97,4 +98,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Harsh-BH/LeetPhod/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Harsh-BH/LeetPhod/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
