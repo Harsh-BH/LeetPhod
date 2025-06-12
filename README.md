@@ -107,8 +107,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harsh-BH/LeetPhod/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Harsh-BH/LeetPhod/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Harsh-BH/LeetPhod/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/Harsh-BH/LeetPhod/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harsh-BH/LeetPhod/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/Harsh-BH/LeetPhod/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
