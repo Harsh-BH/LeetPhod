@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Harsh-BH/LeetPhod/tree/master/0002-add-two-numbers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Harsh-BH/LeetPhod/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Binary Search
 |  |
@@ -102,7 +103,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Harsh-BH/LeetPhod/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harsh-BH/LeetPhod/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Harsh-BH/LeetPhod/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Harsh-BH/LeetPhod/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Harsh-BH/LeetPhod/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
