@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Harsh-BH/LeetPhod/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Harsh-BH/LeetPhod/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Harsh-BH/LeetPhod/tree/master/0226-invert-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Harsh-BH/LeetPhod/tree/master/0501-find-mode-in-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Harsh-BH/LeetPhod/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Harsh-BH/LeetPhod/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Harsh-BH/LeetPhod/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Harsh-BH/LeetPhod/tree/master/0226-invert-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Harsh-BH/LeetPhod/tree/master/0501-find-mode-in-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Harsh-BH/LeetPhod/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -203,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Harsh-BH/LeetPhod/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Harsh-BH/LeetPhod/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Harsh-BH/LeetPhod/tree/master/0226-invert-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Harsh-BH/LeetPhod/tree/master/0501-find-mode-in-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Harsh-BH/LeetPhod/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -216,4 +219,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Harsh-BH/LeetPhod/tree/master/0098-validate-binary-search-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Harsh-BH/LeetPhod/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->
