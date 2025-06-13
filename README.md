@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Harsh-BH/LeetPhod/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Harsh-BH/LeetPhod/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Harsh-BH/LeetPhod/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Harsh-BH/LeetPhod/tree/master/0144-binary-tree-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -166,12 +167,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Harsh-BH/LeetPhod/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Harsh-BH/LeetPhod/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Harsh-BH/LeetPhod/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Harsh-BH/LeetPhod/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Harsh-BH/LeetPhod/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Harsh-BH/LeetPhod/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
