@@ -117,12 +117,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Harsh-BH/LeetPhod/tree/master/0023-merge-k-sorted-lists) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Harsh-BH/LeetPhod/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harsh-BH/LeetPhod/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harsh-BH/LeetPhod/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/Harsh-BH/LeetPhod/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Harsh-BH/LeetPhod/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Harsh-BH/LeetPhod/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Harsh-BH/LeetPhod/tree/master/0092-reverse-linked-list-ii) |
@@ -152,9 +154,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Harsh-BH/LeetPhod/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Harsh-BH/LeetPhod/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Harsh-BH/LeetPhod/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Harsh-BH/LeetPhod/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
