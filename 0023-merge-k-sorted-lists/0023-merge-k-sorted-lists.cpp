@@ -27,11 +27,21 @@ public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
         if (lists.empty()) return nullptr;
 
-        ListNode* head = nullptr;  
-        for (int i = 0; i < lists.size(); i++) {
-            head = merge(head, lists[i]);
-        }
+       while(lists.size()>1){
+        vector<ListNode*> merged;
+        for(int i=0;i<lists.size();i+=2){
+            if(i+1<lists.size()){
+                merged.push_back(merge(lists[i],lists[i+1]));
+            }
+            else{
+                merged.push_back(lists[i]);
+            }
 
-        return head;
+        }
+            lists = merged;
+
+       }
+
+       return lists[0];
     }
 };
