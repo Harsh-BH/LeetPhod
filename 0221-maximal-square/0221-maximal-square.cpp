@@ -1,36 +1,35 @@
 class Solution {
 public:
-    int rec(int i, int j, vector<vector<char>>& matrix, vector<vector<int>>& dp, int& maxSquare) {
-        int m = matrix.size();
-        int n = matrix[0].size();
-
-        if (i >= m || j >= n) return 0;
+    int rec(int i, int j, vector<vector<int>> &dp, vector<vector<char>> &matrix) {
+        if (i < 0 || j < 0) return 0;
 
         if (dp[i][j] != -1) return dp[i][j];
 
-        int down = rec(i + 1, j, matrix, dp, maxSquare);
-        int right = rec(i, j + 1, matrix, dp, maxSquare);
-        int diag = rec(i + 1, j + 1, matrix, dp, maxSquare);
+        if (matrix[i][j] == '0') return dp[i][j] = 0;
 
-        int ans =0;
+        if (i == 0 || j == 0) return dp[i][j] = 1;
 
-        if (matrix[i][j] == '1') {
-            ans = 1 + min({down, right, diag});
-            maxSquare = max(maxSquare,ans);
-        } 
+        int up = rec(i - 1, j, dp, matrix);
+        int left = rec(i, j - 1, dp, matrix);
+        int diag = rec(i - 1, j - 1, dp, matrix);
 
-        return dp[i][j]=ans;
+        return dp[i][j] = 1 + min({up, left, diag});
     }
 
-    int maximalSquare(vector<vector<char>>& matrix) {
-        if (matrix.empty() || matrix[0].empty()) return 0;
+    int maximalSquare(vector<vector<char>> &matrix) {
+        int n = matrix.size();
+        int m = matrix[0].size();
 
-        int m = matrix.size(), n = matrix[0].size();
-        vector<vector<int>> dp(m, vector<int>(n, -1));
-        int maxSquare = 0;
+        vector<vector<int>> dp(n, vector<int>(m, -1));
 
-        rec(0, 0, matrix, dp, maxSquare);
+        int max_side = 0;
 
-        return maxSquare * maxSquare;
+        for (int i = 0; i < n; ++i) {
+            for (int j = 0; j < m; ++j) {
+                max_side = max(max_side, rec(i, j, dp, matrix));
+            }
+        }
+
+        return max_side * max_side;
     }
 };
