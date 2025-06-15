@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/Harsh-BH/LeetPhod/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Harsh-BH/LeetPhod/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/Harsh-BH/LeetPhod/tree/master/0072-edit-distance) |
+| [0389-find-the-difference](https://github.com/Harsh-BH/LeetPhod/tree/master/0389-find-the-difference) |
 | [1250-longest-common-subsequence](https://github.com/Harsh-BH/LeetPhod/tree/master/1250-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Harsh-BH/LeetPhod/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/Harsh-BH/LeetPhod/tree/master/0389-find-the-difference) |
 | [3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/Harsh-BH/LeetPhod/tree/master/3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 ## Backtracking
 |  |
@@ -118,12 +120,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Harsh-BH/LeetPhod/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harsh-BH/LeetPhod/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Harsh-BH/LeetPhod/tree/master/0160-intersection-of-two-linked-lists) |
+| [0389-find-the-difference](https://github.com/Harsh-BH/LeetPhod/tree/master/0389-find-the-difference) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Harsh-BH/LeetPhod/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Harsh-BH/LeetPhod/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Harsh-BH/LeetPhod/tree/master/0148-sort-list) |
+| [0389-find-the-difference](https://github.com/Harsh-BH/LeetPhod/tree/master/0389-find-the-difference) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Harsh-BH/LeetPhod/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Harsh-BH/LeetPhod/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Heap (Priority Queue)
