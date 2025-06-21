@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/Harsh-BH/LeetPhod/tree/master/0300-longest-increasing-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Harsh-BH/LeetPhod/tree/master/1250-longest-common-subsequence) |
 | [3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/Harsh-BH/LeetPhod/tree/master/3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
+| [3875-maximum-good-subtree-score](https://github.com/Harsh-BH/LeetPhod/tree/master/3875-maximum-good-subtree-score) |
 ## Array
 |  |
 | ------- |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Harsh-BH/LeetPhod/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Harsh-BH/LeetPhod/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Harsh-BH/LeetPhod/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3875-maximum-good-subtree-score](https://github.com/Harsh-BH/LeetPhod/tree/master/3875-maximum-good-subtree-score) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Harsh-BH/LeetPhod/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Greedy
 |  |
@@ -107,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/Harsh-BH/LeetPhod/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Harsh-BH/LeetPhod/tree/master/0389-find-the-difference) |
 | [3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/Harsh-BH/LeetPhod/tree/master/3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
+| [3875-maximum-good-subtree-score](https://github.com/Harsh-BH/LeetPhod/tree/master/3875-maximum-good-subtree-score) |
 ## Backtracking
 |  |
 | ------- |
@@ -196,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/Harsh-BH/LeetPhod/tree/master/0226-invert-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Harsh-BH/LeetPhod/tree/master/0501-find-mode-in-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Harsh-BH/LeetPhod/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [3875-maximum-good-subtree-score](https://github.com/Harsh-BH/LeetPhod/tree/master/3875-maximum-good-subtree-score) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -208,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/Harsh-BH/LeetPhod/tree/master/0226-invert-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Harsh-BH/LeetPhod/tree/master/0501-find-mode-in-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Harsh-BH/LeetPhod/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [3875-maximum-good-subtree-score](https://github.com/Harsh-BH/LeetPhod/tree/master/3875-maximum-good-subtree-score) |
 ## Binary Tree
 |  |
 | ------- |
@@ -240,4 +245,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Harsh-BH/LeetPhod/tree/master/0062-unique-paths) |
+## Bitmask
+|  |
+| ------- |
+| [3875-maximum-good-subtree-score](https://github.com/Harsh-BH/LeetPhod/tree/master/3875-maximum-good-subtree-score) |
 <!---LeetCode Topics End-->
