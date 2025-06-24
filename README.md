@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0174-dungeon-game](https://github.com/Harsh-BH/LeetPhod/tree/master/0174-dungeon-game) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harsh-BH/LeetPhod/tree/master/0209-minimum-size-subarray-sum) |
 | [0221-maximal-square](https://github.com/Harsh-BH/LeetPhod/tree/master/0221-maximal-square) |
+| [0238-product-of-array-except-self](https://github.com/Harsh-BH/LeetPhod/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Harsh-BH/LeetPhod/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Harsh-BH/LeetPhod/tree/master/0300-longest-increasing-subsequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Harsh-BH/LeetPhod/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Harsh-BH/LeetPhod/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/Harsh-BH/LeetPhod/tree/master/0238-product-of-array-except-self) |
 ## Bit Manipulation
 |  |
 | ------- |
