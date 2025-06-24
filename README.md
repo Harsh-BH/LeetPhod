@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Harsh-BH/LeetPhod/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Harsh-BH/LeetPhod/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3875-maximum-good-subtree-score](https://github.com/Harsh-BH/LeetPhod/tree/master/3875-maximum-good-subtree-score) |
+| [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Harsh-BH/LeetPhod/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Harsh-BH/LeetPhod/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Greedy
 |  |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/Harsh-BH/LeetPhod/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/Harsh-BH/LeetPhod/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/Harsh-BH/LeetPhod/tree/master/0221-maximal-square) |
+| [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Harsh-BH/LeetPhod/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 ## Math
 |  |
 | ------- |
@@ -132,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/Harsh-BH/LeetPhod/tree/master/0148-sort-list) |
 | [0389-find-the-difference](https://github.com/Harsh-BH/LeetPhod/tree/master/0389-find-the-difference) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Harsh-BH/LeetPhod/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Harsh-BH/LeetPhod/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Harsh-BH/LeetPhod/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Heap (Priority Queue)
 |  |
