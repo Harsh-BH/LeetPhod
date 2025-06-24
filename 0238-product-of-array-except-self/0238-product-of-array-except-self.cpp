@@ -1,43 +1,31 @@
+
 class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
-        vector<int> ans;
-        unordered_map<int, int> mpp;
+
         int n = nums.size();
-        for(int i=0;i<n;i++){
-            mpp[nums[i]]++;
+        vector<int> prefix(n);
+        vector<int> suffix(n);
+        vector<int> ans(n);
+        prefix[0] = 1;
+        suffix[n-1]= 1;
+
+        for(int i=1;i<n;i++){
+            prefix[i] = prefix[i-1]*nums[i-1];
         }
-        if(mpp[0]>1){
-            for(int i=0;i<n;i++){
-                ans.push_back(0);
-            }
-            return ans;
+        for(int i=n-2;i>=0;i--){
+            suffix[i] = suffix[i+1]*nums[i+1];
         }
 
-        int p=1;
-        bool contain_zero = false;
         for(int i=0;i<n;i++){
-            if(nums[i]==0){
-                contain_zero = true;
-                continue;
-            } 
-            p*=nums[i];
-        }  
-        for(int i=0;i<n;i++){
-            if(nums[i]==0){
-                ans.push_back(p);
-                continue;
-            }
-            if(contain_zero){
-                ans.push_back(0);
-            }else{
-                ans.push_back(p/nums[i]);
-            }
-        } 
-
-
-
+            ans[i] = prefix[i]*suffix[i];
+        }
 
         return ans;
+
+
+
+
     }
 };
+
