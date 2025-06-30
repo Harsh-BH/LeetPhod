@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Harsh-BH/LeetPhod/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Harsh-BH/LeetPhod/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Harsh-BH/LeetPhod/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Harsh-BH/LeetPhod/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Harsh-BH/LeetPhod/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Harsh-BH/LeetPhod/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harsh-BH/LeetPhod/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Harsh-BH/LeetPhod/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Harsh-BH/LeetPhod/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Harsh-BH/LeetPhod/tree/master/0073-set-matrix-zeroes) |
 | [0174-dungeon-game](https://github.com/Harsh-BH/LeetPhod/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/Harsh-BH/LeetPhod/tree/master/0221-maximal-square) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Harsh-BH/LeetPhod/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Harsh-BH/LeetPhod/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Harsh-BH/LeetPhod/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Harsh-BH/LeetPhod/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Harsh-BH/LeetPhod/tree/master/0141-linked-list-cycle) |
