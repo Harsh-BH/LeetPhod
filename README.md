@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0174-dungeon-game](https://github.com/Harsh-BH/LeetPhod/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/Harsh-BH/LeetPhod/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Harsh-BH/LeetPhod/tree/master/0300-longest-increasing-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/Harsh-BH/LeetPhod/tree/master/0416-partition-equal-subset-sum) |
 | [1250-longest-common-subsequence](https://github.com/Harsh-BH/LeetPhod/tree/master/1250-longest-common-subsequence) |
 | [3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/Harsh-BH/LeetPhod/tree/master/3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3875-maximum-good-subtree-score](https://github.com/Harsh-BH/LeetPhod/tree/master/3875-maximum-good-subtree-score) |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/Harsh-BH/LeetPhod/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Harsh-BH/LeetPhod/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Harsh-BH/LeetPhod/tree/master/0300-longest-increasing-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/Harsh-BH/LeetPhod/tree/master/0416-partition-equal-subset-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Harsh-BH/LeetPhod/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Harsh-BH/LeetPhod/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Harsh-BH/LeetPhod/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
