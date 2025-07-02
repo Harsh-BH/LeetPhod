@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harsh-BH/LeetPhod/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Harsh-BH/LeetPhod/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Harsh-BH/LeetPhod/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harsh-BH/LeetPhod/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Harsh-BH/LeetPhod/tree/master/0042-trapping-rain-water) |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Harsh-BH/LeetPhod/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Harsh-BH/LeetPhod/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Harsh-BH/LeetPhod/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Harsh-BH/LeetPhod/tree/master/0045-jump-game-ii) |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Harsh-BH/LeetPhod/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Harsh-BH/LeetPhod/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Harsh-BH/LeetPhod/tree/master/0055-jump-game) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Harsh-BH/LeetPhod/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
