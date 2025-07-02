@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/Harsh-BH/LeetPhod/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Harsh-BH/LeetPhod/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Harsh-BH/LeetPhod/tree/master/0072-edit-distance) |
+| [0120-triangle](https://github.com/Harsh-BH/LeetPhod/tree/master/0120-triangle) |
 | [0174-dungeon-game](https://github.com/Harsh-BH/LeetPhod/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/Harsh-BH/LeetPhod/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Harsh-BH/LeetPhod/tree/master/0300-longest-increasing-subsequence) |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/Harsh-BH/LeetPhod/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Harsh-BH/LeetPhod/tree/master/0073-set-matrix-zeroes) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Harsh-BH/LeetPhod/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0120-triangle](https://github.com/Harsh-BH/LeetPhod/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Harsh-BH/LeetPhod/tree/master/0128-longest-consecutive-sequence) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Harsh-BH/LeetPhod/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harsh-BH/LeetPhod/tree/master/0167-two-sum-ii-input-array-is-sorted) |
