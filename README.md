@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/Harsh-BH/LeetPhod/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Harsh-BH/LeetPhod/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Harsh-BH/LeetPhod/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Harsh-BH/LeetPhod/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Harsh-BH/LeetPhod/tree/master/0072-edit-distance) |
 | [0174-dungeon-game](https://github.com/Harsh-BH/LeetPhod/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/Harsh-BH/LeetPhod/tree/master/0221-maximal-square) |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harsh-BH/LeetPhod/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Harsh-BH/LeetPhod/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Harsh-BH/LeetPhod/tree/master/0070-climbing-stairs) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Harsh-BH/LeetPhod/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Binary Search
 |  |
@@ -270,4 +272,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3875-maximum-good-subtree-score](https://github.com/Harsh-BH/LeetPhod/tree/master/3875-maximum-good-subtree-score) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Harsh-BH/LeetPhod/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
