@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/Harsh-BH/LeetPhod/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Harsh-BH/LeetPhod/tree/master/0494-target-sum) |
 | [1250-longest-common-subsequence](https://github.com/Harsh-BH/LeetPhod/tree/master/1250-longest-common-subsequence) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Harsh-BH/LeetPhod/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/Harsh-BH/LeetPhod/tree/master/3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3875-maximum-good-subtree-score](https://github.com/Harsh-BH/LeetPhod/tree/master/3875-maximum-good-subtree-score) |
 ## Array
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/Harsh-BH/LeetPhod/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Harsh-BH/LeetPhod/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Harsh-BH/LeetPhod/tree/master/0560-subarray-sum-equals-k) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Harsh-BH/LeetPhod/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Harsh-BH/LeetPhod/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Harsh-BH/LeetPhod/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Harsh-BH/LeetPhod/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -172,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/Harsh-BH/LeetPhod/tree/master/0148-sort-list) |
 | [0389-find-the-difference](https://github.com/Harsh-BH/LeetPhod/tree/master/0389-find-the-difference) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Harsh-BH/LeetPhod/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Harsh-BH/LeetPhod/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [3884-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Harsh-BH/LeetPhod/tree/master/3884-minimum-absolute-difference-in-sliding-submatrix) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/Harsh-BH/LeetPhod/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Heap (Priority Queue)
