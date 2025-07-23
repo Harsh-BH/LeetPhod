@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0174-dungeon-game](https://github.com/Harsh-BH/LeetPhod/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/Harsh-BH/LeetPhod/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Harsh-BH/LeetPhod/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/Harsh-BH/LeetPhod/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Harsh-BH/LeetPhod/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Harsh-BH/LeetPhod/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Harsh-BH/LeetPhod/tree/master/0416-partition-equal-subset-sum) |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/Harsh-BH/LeetPhod/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Harsh-BH/LeetPhod/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Harsh-BH/LeetPhod/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/Harsh-BH/LeetPhod/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Harsh-BH/LeetPhod/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Harsh-BH/LeetPhod/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Harsh-BH/LeetPhod/tree/master/0416-partition-equal-subset-sum) |
